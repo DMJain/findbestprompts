@@ -17,7 +17,7 @@ const Nav = () => {
 
         
       }, []);
-      console.log(providers);
+      console.log(session)
 
   return (
     <nav className='flex flex-between w-full mb-16 pt-3'>
